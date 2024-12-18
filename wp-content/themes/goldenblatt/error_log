@@ -1,0 +1,40 @@
+[11-Nov-2020 10:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php on line 3
+[20-Nov-2020 16:58:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php on line 3
+[31-Dec-2020 04:06:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php on line 3
+[03-Jan-2021 17:50:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php on line 3
+[05-Jan-2021 00:36:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php on line 3
+[15-Jan-2021 09:09:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php on line 3
+[15-Jan-2021 16:29:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php on line 3
+[07-Feb-2021 02:36:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php on line 3
+[14-Feb-2021 13:29:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php on line 3
+[27-Feb-2021 23:50:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sanivokasi/public_html/wp-content/themes/goldenblatt/index.php on line 3

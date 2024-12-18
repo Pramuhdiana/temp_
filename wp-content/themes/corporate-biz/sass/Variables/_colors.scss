@@ -1,0 +1,54 @@
+
+
+$theme-background-color : (
+
+    background-primary-color: #fff,
+
+    background-secondary-color: #eef2f6,
+
+    background-tertiary-color: #ea3a60,
+    
+    background-dark-color: #131218, //#131218
+
+    background-small-text: #eee,
+
+    progress-bg: linear-gradient(to left, #f38942, #ea3a60),
+);
+
+$theme-color:(
+
+    primary-color: #060606,
+
+    header-color: #ffffff,
+
+    tertiary-link-color: #ffffff,
+
+    theme-heading-color: #060606,
+
+    theme-link-color: #111111,
+
+    theme-link-hover-color: #ea3a60,
+
+    secondary-link-color: #999999,
+
+    color-white-light: #fff, // ffff
+
+    eighty-two-of-color-white-light: #d1d1d1,
+
+    quote-color: #01e0af,
+
+    theme-primary-border-color: #ebebeb, //#ebebeb
+
+    ninety-nine-for-border-color: #979797,
+);
+
+$button-color: (
+ 
+    background-button: #ea3a60,
+
+    button-text-color: #fff,
+
+    button-hover-text-color: #fff,
+
+    background-hover-button: #333333
+);
